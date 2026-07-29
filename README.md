@@ -11,3 +11,4 @@ Industrial Engineer with a focus on Supply Chain & Logistics Management.
 - 🏭 [Warehouse Performance Analytics](https://sowmiyagunal04-dev.github.io/portfolio/Warehouse-Performance-Analytics/) — capacity, cost & service analytics
 - 📦 [Inventory Intelligence Analysis](https://sowmiyagunal04-dev.github.io/portfolio/Inventory-Intelligence-Analysis/) — stockout & working capital analysis
 - 🚚 [Outbound Logistics Analytics](https://sowmiyagunal04-dev.github.io/portfolio/Outbound-Logistics-Analytics/) — carrier true cost & vehicle fill
+- 🌱 [Supplier Sustainability Rating Tool](https://sowmiyagunal04-dev.github.io/portfolio/Supplier-Sustainability-Rating-Tool/) — AHP-weighted FMCG supplier scoring
