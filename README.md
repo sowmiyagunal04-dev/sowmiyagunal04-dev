@@ -235,41 +235,6 @@ End-to-end analysis of production and supply chain workflows to remove bottlenec
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sowmiyagunal04-dev&show_icons=true&hide_border=true&bg_color=0A0F1A&title_color=60A5FA&icon_color=2DD4BF&text_color=8698B8&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=sowmiyagunal04-dev&hide_border=true&background=0A0F1A&ring=2DD4BF&fire=60A5FA&currStreakLabel=60A5FA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyagunal04-dev&layout=compact&hide_border=true&bg_color=0A0F1A&title_color=60A5FA&text_color=8698B8" width="49%"/>
-
-</div>
-
-<br/>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sowmiyagunal04-dev&theme=algolia&no-frame=true&margin-w=8&row=1" />
-</div>
-
-<br/>
-
----
-
-## Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmiyagunal04-dev&hide_border=true&bg_color=0A0F1A&color=60A5FA&line=2DD4BF&point=60A5FA" width="95%"/>
-</div>
-
-<br/>
-
----
-
 ## Contribution Snake
 
 <div align="center">
