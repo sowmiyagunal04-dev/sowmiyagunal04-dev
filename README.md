@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=220&section=header&text=Sowmiya%20Jayaseelan&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Supply%20Chain%20%26%20Industrial%20Engineering%20Analytics&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1A,50:111A2B,100:0A0F1A&height=220&section=header&text=Sowmiya%20Jayaseelan&fontSize=42&fontColor=60A5FA&animation=fadeIn&fontAlignY=35&desc=Supply%20Chain%20%26%20Industrial%20Engineering%20Analytics&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Supply+Chain+Analyst+%7C+FMCG+Analytics;Demand+Forecasting+%2B+AI%2FML+(XGBoost%2C+Prophet%2C+ARIMA);Turning+Operations+Data+Into+Supply+Chain+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Supply+Chain+Analyst+%7C+FMCG+Analytics;Demand+Forecasting+%2B+AI%2FML+(XGBoost%2C+Prophet%2C+ARIMA);Turning+Operations+Data+Into+Supply+Chain+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![MSc Supply Chain & Logistics](https://img.shields.io/badge/MSc-Supply%20Chain%20%26%20Logistics-D4AF37?style=for-the-badge&labelColor=000000)
-![BEng Industrial Engineering](https://img.shields.io/badge/BEng-Industrial%20Engineering-D4AF37?style=for-the-badge&labelColor=000000)
-![Location](https://img.shields.io/badge/📍-Coventry,%20UK-D4AF37?style=for-the-badge&labelColor=000000)
+![MSc Supply Chain & Logistics](https://img.shields.io/badge/MSc-Supply%20Chain%20%26%20Logistics-2DD4BF?style=for-the-badge&labelColor=0A0F1A)
+![BEng Industrial Engineering](https://img.shields.io/badge/BEng-Industrial%20Engineering-2DD4BF?style=for-the-badge&labelColor=0A0F1A)
+![Location](https://img.shields.io/badge/📍-Coventry,%20UK-2DD4BF?style=for-the-badge&labelColor=0A0F1A)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://sowmiyagunal04-dev.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/sowmiya-jayaseelan/)
-[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sowmiyagunal04@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/sowmiyagunal04-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0F1A)](https://sowmiyagunal04-dev.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1A)](https://www.linkedin.com/in/sowmiya-jayaseelan/)
+[![Email](https://img.shields.io/badge/Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1A)](mailto:sowmiyagunal04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2DD4BF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1A)](https://github.com/sowmiyagunal04-dev)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sowmiyagunal04-dev&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sowmiyagunal04-dev?style=for-the-badge&color=D4AF37&labelColor=000000&label=FOLLOWERS)
-![Portfolio Stars](https://img.shields.io/github/stars/sowmiyagunal04-dev/portfolio?style=for-the-badge&color=D4AF37&labelColor=000000&label=PORTFOLIO%20STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=sowmiyagunal04-dev&color=2DD4BF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/sowmiyagunal04-dev?style=for-the-badge&color=2DD4BF&labelColor=0A0F1A&label=FOLLOWERS)
+![Portfolio Stars](https://img.shields.io/github/stars/sowmiyagunal04-dev/portfolio?style=for-the-badge&color=2DD4BF&labelColor=0A0F1A&label=PORTFOLIO%20STARS)
 
 </div>
 
@@ -225,11 +225,11 @@ End-to-end analysis of production and supply chain workflows to remove bottlenec
 
 ## Certifications
 
-![Unilever Supply Chain Data Analyst](https://img.shields.io/badge/Unilever-Supply%20Chain%20Data%20Analyst%20Certification-D4AF37?style=for-the-badge&labelColor=000000)
-![CSCA](https://img.shields.io/badge/Certified%20Supply%20Chain%20Analyst-CSCA-D4AF37?style=for-the-badge&labelColor=000000)
-![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Yellow%20Belt-D4AF37?style=for-the-badge&labelColor=000000)
-![5S System](https://img.shields.io/badge/5S%20System-Workplace%20Optimisation-D4AF37?style=for-the-badge&labelColor=000000)
-![Applied Ergonomics](https://img.shields.io/badge/Applied%20Ergonomics-Certified-FFD700?style=for-the-badge&labelColor=000000)
+![Unilever Supply Chain Data Analyst](https://img.shields.io/badge/Unilever-Supply%20Chain%20Data%20Analyst%20Certification-2DD4BF?style=for-the-badge&labelColor=0A0F1A)
+![CSCA](https://img.shields.io/badge/Certified%20Supply%20Chain%20Analyst-CSCA-2DD4BF?style=for-the-badge&labelColor=0A0F1A)
+![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Yellow%20Belt-2DD4BF?style=for-the-badge&labelColor=0A0F1A)
+![5S System](https://img.shields.io/badge/5S%20System-Workplace%20Optimisation-2DD4BF?style=for-the-badge&labelColor=0A0F1A)
+![Applied Ergonomics](https://img.shields.io/badge/Applied%20Ergonomics-Certified-60A5FA?style=for-the-badge&labelColor=0A0F1A)
 
 <br/>
 
@@ -239,10 +239,10 @@ End-to-end analysis of production and supply chain workflows to remove bottlenec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sowmiyagunal04-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=D4AF37&text_color=C9D1D9&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=sowmiyagunal04-dev&hide_border=true&background=000000&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sowmiyagunal04-dev&show_icons=true&hide_border=true&bg_color=0A0F1A&title_color=60A5FA&icon_color=2DD4BF&text_color=8698B8&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=sowmiyagunal04-dev&hide_border=true&background=0A0F1A&ring=2DD4BF&fire=60A5FA&currStreakLabel=60A5FA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyagunal04-dev&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyagunal04-dev&layout=compact&hide_border=true&bg_color=0A0F1A&title_color=60A5FA&text_color=8698B8" width="49%"/>
 
 </div>
 
@@ -253,7 +253,7 @@ End-to-end analysis of production and supply chain workflows to remove bottlenec
 ## GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sowmiyagunal04-dev&theme=gruvbox&no-frame=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=sowmiyagunal04-dev&theme=algolia&no-frame=true&margin-w=8&row=1" />
 </div>
 
 <br/>
@@ -263,7 +263,7 @@ End-to-end analysis of production and supply chain workflows to remove bottlenec
 ## Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmiyagunal04-dev&hide_border=true&bg_color=000000&color=FFD700&line=D4AF37&point=FFD700" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmiyagunal04-dev&hide_border=true&bg_color=0A0F1A&color=60A5FA&line=2DD4BF&point=60A5FA" width="95%"/>
 </div>
 
 <br/>
@@ -310,10 +310,10 @@ Open To:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/sowmiyagunal04@gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sowmiyagunal04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/sowmiya--jayaseelan-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/sowmiya-jayaseelan/)
-[![GitHub](https://img.shields.io/badge/sowmiyagunal04--dev-D4AF37?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/sowmiyagunal04-dev)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://sowmiyagunal04-dev.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/sowmiyagunal04@gmail.com-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1A)](mailto:sowmiyagunal04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/sowmiya--jayaseelan-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1A)](https://www.linkedin.com/in/sowmiya-jayaseelan/)
+[![GitHub](https://img.shields.io/badge/sowmiyagunal04--dev-2DD4BF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1A)](https://github.com/sowmiyagunal04-dev)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0F1A)](https://sowmiyagunal04-dev.github.io/portfolio/)
 
 </div>
 
@@ -325,6 +325,6 @@ Open To:
 
 *"A forecast nobody can explain, and a supplier score nobody can audit, haven't solved anything — they've just moved the guesswork downstream."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1A,50:111A2B,100:0A0F1A&height=140&section=footer" width="100%"/>
 
 </div>
